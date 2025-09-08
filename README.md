@@ -98,3 +98,6 @@ The project is split into two main folders:
 Frontend_Test_Submission/: Contains the React application code.
 
 Logging_Middleware/: Contains the Node.js backend server and logging middleware.
+
+<img width="1919" height="837" alt="image" src="https://github.com/user-attachments/assets/8808811a-ddf5-474d-8071-19078a61e7e8" />
+
