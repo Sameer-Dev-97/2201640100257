@@ -1,0 +1,28 @@
+{
+  "compilerOptions": {
+    /* File Layout */
+    "rootDir": "./src",
+    "outDir": "./lib",
+
+    /* Environment Settings */
+    "module": "commonjs",      // Node-friendly
+    "target": "es2019",        // modern Node target
+    "lib": ["es2019"],
+    "types": ["node"],
+
+    /* Other Outputs */
+    "sourceMap": true,
+    "declaration": true,
+    "declarationMap": true,
+
+    /* Strict Typechecking */
+    "strict": true,
+    "noUncheckedIndexedAccess": true,
+    "exactOptionalPropertyTypes": true,
+
+    /* Node/Build Options */
+    "esModuleInterop": true,   // allows `import axios from "axios"`
+    "skipLibCheck": true
+  },
+  "include": ["src"]
+}
